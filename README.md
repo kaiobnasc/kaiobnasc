@@ -9,18 +9,21 @@
   <a href="https://youtube.com/krosss"><img alt="YouTube" title="YouTube" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg"></a>
 </p>
 
-- 👋 Oi, meu nome é Kaio Nascimento
-- 👀 Estou interessado em evoluir minha prática de programação!
-- 🌱 Atualmente, estou aprendendo HTML, CSS, TypeScript & React.
-- 💞️ Atualmente estudo Ciência da Computação na Universidade Federal de Catalão.
-- 📫 Entre em contato comigo através do e-mail: kaionu2@gmail.com
+- 👋 Hi, i'm Kaio Nascimento
+- 👀 I am interested in evolving my programming practice using GIT!
+- 🌱 I'm currently learning HTML, CSS, TypeScript & React.
+- 💞️ I study Computer Science at Universidade Federal de Catalão.
+- 📫 Contact me: kaionu2@gmail.com
 
-**Linguagens e ferramentas:**
+**Languages and Tools:**
+<p align="left">
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions%20-05122A?style=flat&logo=github-actions&logoColor=white)&nbsp;
 
