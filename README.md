@@ -1,15 +1,13 @@
-- <h1>Salve família! <img src="https://github.com/fflucas/fflucas/blob/main/Assets/Hi.gif" width="29px"></h1>
-<a href="https://discord.gg/7unzsSKCah">
-  <img align="left" alt="Kaio Nascimento's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/kaiobnasc">
-  <img align="left" alt="Kaio Nascimento | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://open.spotify.com/playlist/6bPgtG8BccwyI43BrOMWkC?si=gYTFpZhGS1SQsZ_b7YU9Ig">
-  <img align="left" alt="Kaio Nascimento's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
+- <h1>Hi there! <img src="https://github.com/fflucas/fflucas/blob/main/Assets/Hi.gif" width="29px"></h1>
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+<p align="left">
+  <a href="https://fb.gg/krossbn"><img alt="Facebook" title="Facebook" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg"></a>
+  <a href="https://twitch.tv/krossbn"><img alt="Twitch" title="Twitch" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitch.svg"></a>
+  <a href="https://twitter.com/kaiobnasc"><img alt="Twitter" title="Twitter" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"></a>
+  <a href="https://youtube.com/krosss"><img alt="YouTube" title="YouTube" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg"></a>
+</p>
 
 - 👋 Oi, meu nome é Kaio Nascimento
 - 👀 Estou interessado em evoluir minha prática de programação!
@@ -23,8 +21,12 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions%20-05122A?style=flat&logo=github-actions&logoColor=white)&nbsp;
 
-__________________________________________________________________________________________________________________________
+______________________________________________________________________________________________________
+
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiobnasc&layout=compact&count_private=true&theme=tokyonight)
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kaiobnasc&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
