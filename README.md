@@ -3,12 +3,6 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-<p align="left">
-  <a href="https://fb.gg/krossbn"><img alt="Facebook" title="Facebook" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg"></a>
-  <a href="https://twitch.tv/krossbn"><img alt="Twitch" title="Twitch" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitch.svg"></a>
-  <a href="https://twitter.com/kaiobnasc"><img alt="Twitter" title="Twitter" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"></a>
-  <a href="https://youtube.com/krosss"><img alt="YouTube" title="YouTube" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg"></a>
-</p>
 
 - 👋 Olá, eu sou o Kaio!
 - 👀 Estou interessado em desenvolver minha prática de programação usando o GIT!
@@ -51,5 +45,4 @@
 
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=kaiobnasc&show_icons=true&theme=gotham" />
 </div>
-
 
