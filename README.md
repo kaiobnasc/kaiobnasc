@@ -6,7 +6,7 @@
 
 - 👋 Olá, eu sou o Kaio! Sou desenvolvedor Back|Front-End!
 - 👀 Estou interessado em desenvolver minha prática de programação usando o GIT!
-- 💞️ Bacharel em Ciência da Computação na Universidade Federal de Catalão.
+- 💞️ Bacharelando em Ciência da Computação na Universidade Federal de Catalão.
 - 📫 Contato: kaionu2@gmail.com
 
 <kbd align="center">
