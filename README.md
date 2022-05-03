@@ -4,9 +4,9 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
-👋 Olá, eu sou o Kaio! Sou desenvolvedor Front-End!
-💞️ Bacharelando em Ciência da Computação na Universidade Federal de Catalão.
-📫 Contato: kaionu2@gmail.com
+- 👋 Olá, eu sou o Kaio! Sou desenvolvedor Front-End!
+- 💞️ Bacharelando em Ciência da Computação na Universidade Federal de Catalão.
+- 📫 Contato: kaionu2@gmail.com
 
 <kbd align="center">
 <kbd>Estudando:</kbd>
