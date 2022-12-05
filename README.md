@@ -5,7 +5,7 @@
 
 
 - 👋 Olá, eu sou o Kaio! Sou desenvolvedor e cientista de dados!
-- 💞️ Bacharelando em Ciência da Computação na Universidade Federal de Catalão.
+- 💞️ Bacharelando em Ciência da Computação na Universidade Federal de Catalão e Análise e Desenvolvimento de Sistemas pela Faculdade Descomplica.
 - 📫 Contato: kaionu2@gmail.com
 
 <kbd align="center">
