@@ -1,7 +1,7 @@
 
 - <h1>Olá, bem vindo! <img src="https://github.com/fflucas/fflucas/blob/main/Assets/Hi.gif" width="29px"></h1>
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="220" />
 
 
 - Olá, eu sou o Kaio! Sou desenvolvedor e cientista de dados!
