@@ -9,7 +9,7 @@
 - Contato: kaionu2@gmail.com
 
 <kbd align="center">
-<kbd>DEV:</kbd>
+<kbd>Ferramentas:</kbd>
  <br />
  <br />
    <img align="center" title="HTML5" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
