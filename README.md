@@ -38,7 +38,7 @@
 </div>
 
 <div>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiobnasc&layout=compact&count_private=true&theme=tokyonight" />
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiobnasc&layout=compact&count_private=true&theme=gotham" />
 
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=kaiobnasc&show_icons=true&theme=gotham" />
 </div>
